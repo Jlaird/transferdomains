@@ -1,1 +1,3 @@
-# Helper Scripts For Transfering Domains From Bulkregister Or Goaddy
+# Transfering Domains
+
+Helper Scripts For Transfering Domains From Bulkregister Or Goaddy
